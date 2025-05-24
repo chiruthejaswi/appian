@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopSmarter: AI-Powered Personal Shopping Assistant
 
 An intelligent e-commerce assistant that uses AI to enhance your shopping experience through visual search and personalized recommendations.
@@ -49,3 +50,6 @@ REACT_APP_OPENAI_API_KEY=your_openai_api_key
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
+=======
+# appian
+>>>>>>> c40dbfc02f8a38bb6599797bcc3877b376ef4643
