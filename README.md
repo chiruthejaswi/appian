@@ -17,7 +17,7 @@ An intelligent e-commerce assistant that uses AI to enhance your shopping experi
 - Frontend: React, TypeScript, Chakra UI
 - Backend: Flask, SQLite
 - AI/ML: OpenAI CLIP, LangChain
-- Cloud: AWS AI Services
+
 
 ## Getting Started
 
